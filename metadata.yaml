@@ -1,0 +1,29 @@
+_repo: Dorothy-s-Mystical-Adventures-in-Oz_9395
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9395/9395-h/images/titlepage.jpg
+  rights: Copyrighted. Read the copyright notice inside this book for details.
+  rights_url: ''
+creator:
+  author:
+    agent_name: Evans, Robert J.
+    alias: Evans, Bob
+    gutenberg_agent_id: '3040'
+    url: http://www.gutenberg.org/2009/agents/3040
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9395'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Fantasy'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Dorothy's Mystical Adventures in Oz
+url: http://www.gutenberg.org/ebooks/9395
